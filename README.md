@@ -1,7 +1,7 @@
 # Wzorce projektowe
 
 1. Kreacyjne
-    [1.1. Budowniczy](./Builder/builder.md)
+    [1.1. Budowniczy](./Builder/builder.md)\s\s
     [1.2. Fabryka abstrakcyjna](./AbstractFactory/abstractFactory.md)
     [1.3. Metoda Wytwórcza](./FactoryMethod/factoryMethod.md)
     [1.4. Prototyp](./Prototype/prototype.md)
