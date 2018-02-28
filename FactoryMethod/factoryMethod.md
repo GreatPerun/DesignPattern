@@ -1,0 +1,1 @@
+# Metoda Wytwórcza (Factory Method)

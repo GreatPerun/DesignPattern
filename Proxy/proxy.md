@@ -1,0 +1,1 @@
+# Pełnomocnik (Proxy)

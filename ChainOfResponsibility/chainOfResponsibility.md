@@ -1,0 +1,1 @@
+# Łańcuch Zobowiązań (Chain od Responsibility)

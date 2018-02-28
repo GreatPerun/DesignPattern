@@ -1,0 +1,1 @@
+# Metoda Szablonowa (Template Method)

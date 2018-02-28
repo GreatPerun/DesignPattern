@@ -1,0 +1,1 @@
+# Obserwator (Observer)

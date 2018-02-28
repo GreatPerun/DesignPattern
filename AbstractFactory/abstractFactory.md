@@ -1,0 +1,1 @@
+# Fabryka Abstrakcyjna (Abstract Factory)
